@@ -4,4 +4,4 @@ Learning QISKIT
 
 Here, I will upload the codes of QISKIT as I learn them
 The following algorithms are available in this reposiratory: 
-Markup: - Bernstein-Vazirani Algorithm 
+Markup: * Bernstein-Vazirani Algorithm 
